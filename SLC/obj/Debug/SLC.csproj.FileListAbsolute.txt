@@ -1,0 +1,16 @@
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\SLC.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\SLC.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\BLL.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\Entities.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\DAL.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\BLL.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\Entities.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\DAL.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\DAL.dll.config
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\obj\Debug\SLC.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\SLC\obj\Debug\SLC.pdb

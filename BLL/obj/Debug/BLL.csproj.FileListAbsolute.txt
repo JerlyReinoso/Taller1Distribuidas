@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\BLL.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\BLL.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\DAL.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\Entities.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\DAL.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\DAL.dll.config
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\Entities.pdb
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\obj\Debug\BLL.dll
+C:\Users\Sebastian\source\repos\Sales2024-1\BLL\obj\Debug\BLL.pdb
